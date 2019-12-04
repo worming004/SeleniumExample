@@ -29,7 +29,7 @@ namespace ReachSelenium
             .GoToUrl("https://www.google.com");
 
             Screenshot ss = ((ITakesScreenshot)driver).GetScreenshot();
-            ss.SaveAsFile(Path.Combine("./", DateTime.Now.ToLongDateString() + ".jpg"));
+            ss.SaveAsFile(Path.Combine("./Screenshot", DateTime.Now.ToLongDateString() + Guid.NewGuid() + ".jpg"));
         }
     }
 }
