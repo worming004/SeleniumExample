@@ -1,0 +1,14 @@
+C:\git\CSharp\ReachSelenium\obj\Debug\netcoreapp3.0\ReachSelenium.csprojAssemblyReference.cache
+C:\git\CSharp\ReachSelenium\obj\Debug\netcoreapp3.0\ReachSelenium.AssemblyInfoInputs.cache
+C:\git\CSharp\ReachSelenium\obj\Debug\netcoreapp3.0\ReachSelenium.AssemblyInfo.cs
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\ReachSelenium.exe
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\ReachSelenium.deps.json
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\ReachSelenium.runtimeconfig.json
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\ReachSelenium.runtimeconfig.dev.json
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\ReachSelenium.dll
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\ReachSelenium.pdb
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\git\CSharp\ReachSelenium\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\git\CSharp\ReachSelenium\obj\Debug\netcoreapp3.0\ReachSelenium.csproj.CopyComplete
+C:\git\CSharp\ReachSelenium\obj\Debug\netcoreapp3.0\ReachSelenium.dll
+C:\git\CSharp\ReachSelenium\obj\Debug\netcoreapp3.0\ReachSelenium.pdb
