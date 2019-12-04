@@ -26,10 +26,15 @@ namespace ReachSelenium
         static void PingGoogle(IWebDriver driver)
         {
             driver.Navigate()
-            .GoToUrl("https://www.google.com");
+                .GoToUrl("https://secure.ogone.com/ncol/test/backoffice");
 
             Screenshot ss = ((ITakesScreenshot)driver).GetScreenshot();
-            ss.SaveAsFile(Path.Combine("./Screenshot", DateTime.Now.ToLongDateString() + Guid.NewGuid() + ".jpg"));
+            var fileName = Path.Combine("./Screenshot", DateTime.Now.ToLongDateString() + Guid.NewGuid() + ".jpg");
+            if (!Directory.Exists("./Screenshot"))
+            {
+                Directory.CreateDirectory("./Screenshot");
+            }
+            ss.SaveAsFile(fileName);
         }
     }
 }
